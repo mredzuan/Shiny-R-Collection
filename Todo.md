@@ -1,19 +1,16 @@
-# Example of TODO.md
+# Tracking
 
 This is an example of TODO.md
 
 View the raw content of this file to understand the format.
 
-### Todo
+### Reading
 
-- [ ] Work on the website ~3d #feat @john 2020-03-20  
-- [ ] Fix the homepage ~1d #bug @jane  
-  - [ ] Sub-task or description  
+- [x] Chapter 1
 
-### In Progress
+### Exercise
 
-- [ ] Work on Github Repo [JIRA-345]  
+- [x] Chapter 1
 
-### Done ✓
-
-- [x] Create my first TODO.md  
+### To do
+- [ ] Continue reading chapter 2
